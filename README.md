@@ -10,4 +10,4 @@ Luego vamos a las variables de entorno del servidor web y las rellenamos con la 
 
 Le Damos a Deploy y arranca el servidor, tenemos que esperar a que este en el estado "Deployed" o "Live".
 
-Por ultimo hacemos con el  manual deploy del servicio entrando en el URL que nos genera https://odoo-tests-1.onrender.com  y con el inicio de sesion te llevaria a la pagina de Odoo conectado a la base de datos 
+Por ultimo hacemos con el  manual deploy del servicio entrando en el URL que nos genera https://odoo-tests-1.onrender.com  y con el inicio de sesion ingresando admin en usuario y admin en contraseña te llevaria a la pagina de Odoo conectado a la base de datos 
